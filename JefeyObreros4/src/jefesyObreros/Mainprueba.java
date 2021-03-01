@@ -26,7 +26,7 @@ public class Mainprueba {
 		  
 	        Empleado emp1,emp2,emp3,emp4,emp5,emp6,emp7;
 	        
-			emp1 = new Empleado ("Robin", 20,3000, "O1");
+		emp1 = new Empleado ("Robin", 20,3000, "O1");
 
 	        emp2 = new Empleado ("Gordon", 50, 4000, "O2");
 
